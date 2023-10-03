@@ -55,10 +55,8 @@ PLATE : plate where the printed object is created.
 EXTRUDER : melts and extrudes the filament to create the printed object.
 
 FILAMENT : material that is used to create the printed object.
-## Output:
-
-### Name:
-### Register Number:
+### Name: Migal G Arunadann
+### Register Number: 212222110025
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
